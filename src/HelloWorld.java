@@ -12,9 +12,5 @@ public class HelloWorld
 		System.out.println("hello world again");
 		System.out.println("hello world again");
 		System.out.println("hello world again");
-		System.out.println("hello world again");
-		System.out.println("hello world again");
-		System.out.println("hello world again");
-		System.out.println("hello world again");
 	}
 }
